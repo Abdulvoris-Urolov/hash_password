@@ -1,0 +1,27 @@
+{
+  "name": "hash_password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulvorisjs/hash_password.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulvorisjs/hash_password/issues"
+  },
+  "homepage": "https://github.com/Abdulvorisjs/hash_password#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.5"
+  }
+}
